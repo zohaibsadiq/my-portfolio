@@ -1,4 +1,4 @@
-import { AiOutlineCheckSquare } from "react-icons/Ai";
+import { AiOutlineCheckSquare } from "react-icons/ai";
 
 const Skill = () => {
   return (

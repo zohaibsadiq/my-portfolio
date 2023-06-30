@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ImDownload } from "react-icons/Im";
+import { ImDownload } from "react-icons/im";
 
 const Project = () => {
   return (

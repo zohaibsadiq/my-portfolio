@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import Image from "next/image";
-import { ImDownload } from 'react-icons/Im';
+import { ImDownload } from 'react-icons/im';
 
 const Navbar = () => {
   return (
